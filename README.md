@@ -8,7 +8,7 @@ const aboutMe = {
    firstJob: "WARNER BROS",
    currentCompanny: "YSSY",
    allocatedIn: "BRADESCO",
-   technologiesUsedInWork: ["EXCEL", "VBA", "VBA_FROMS", "POWER_BI", , "Python", "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Node.js", "GIT", "Express", "SQL", "PostmanAPI"],
+   technologiesUsedInWork: ["EXCEL", "VBA", "VBA_FROMS", "POWER_BI", "Python", "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Node.js", "GIT", "Express", "SQL", "PostmanAPI"],
    favoriteApiClient: "PostMan",
    hobbies: ["Study", "Play video game", "Code", "Watch series", "Skateboard"]
 };
