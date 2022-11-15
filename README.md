@@ -2,13 +2,12 @@
 
 ```javascript
 const aboutMe = {
-   age: 22,
-   state: "São Paulo",
-   jobRole: "Web Developer" || "Full-Stack Developer" || "Data Analyst",
-   firstJob: "WARNER BROS",
-   currentCompanny: "YSSY",
-   allocatedIn: "BRADESCO",
-   technologiesUsedInWork: ["EXCEL", "VBA", "VBA_FROMS", "POWER_BI", "Python", "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Node.js", "GIT", "Express", "SQL", "PostmanAPI"],
+   age: 24,
+   state: "Santa Catarina",
+   jobRole: "Web Developer" || "Full-Stack Developer",
+   firstJob: "null",
+   currentCompanny: "YSSY"
+   technologiesUsedInWork: ["HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Node.js", "GIT", "Express", "SQL", "PostmanAPI"],
    favoriteApiClient: "PostMan",
    hobbies: ["Study", "Play video game", "Code", "Watch series", "Skateboard"]
 };
